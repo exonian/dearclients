@@ -9,7 +9,7 @@ Clients sometimes say the darndest things. There are a lot of misconceptions and
 
 ## Result
 
-... put together a resource here, on Github as a page that we can refer clients to. It would help our communication, and neither us, nor them wold spend time explaining things over and over again. I know that part of our job is to educate clients (ref: Paul Boag and Mike Monteiro), but I have the growing need for a resource where I can go and see how different concepts are explained clearly. Sometimes I'm not the most verbose of people.
+... put together a resource here, on Github as a page that we can refer clients to. It would help our communication, and neither us, nor them, would spend time explaining things over and over again. I know that part of our job is to educate clients (ref: Paul Boag and Mike Monteiro), but I have the growing need for a resource where I can go and see how different concepts are explained clearly. Sometimes I'm not the most verbose of people.
 
 ## How?
 
